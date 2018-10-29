@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 print("Hello world!")
 
 print("--------------------")
@@ -16,7 +17,7 @@ print(next(my_iterator))
 
 print("--------------------")
 
-my_list = ["Pazartesi", "Salı","Çarşamba", "Perşembe", "Cuma", "Cumartesi","Pazar"]
+my_list = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
 
 for i in my_list:
     print(i)
